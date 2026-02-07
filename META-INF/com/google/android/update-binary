@@ -430,7 +430,7 @@ ui_print "          / || /   | ,'   /  /             ";
 ui_print "         /_/|_/   /_/   ,'_n_\             ";
 ui_print "                                           ";
 ui_print "-------------------------------------------";
-ui_print "|----------- NyxKernel-spaced -------------|";
+ui_print "|--------- Nyx Kernel for spaced ----------|";
 ui_print "|-------------- By DEEZNUTZ ---------------|";
 ui_print "|----------- BORN FROM THE VOID -----------|";
 ui_print "|------------------------------------------|";
