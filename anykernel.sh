@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=InfixKernel-spaced for Realme Narzo50/8i(spaced)
+kernel.string=HYPERION-spaced for Realme Narzo50/8i(spaced)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
