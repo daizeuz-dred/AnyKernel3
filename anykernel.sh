@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=APEX-Kernel-spaced for Realme Narzo50/8i(spaced)
+kernel.string=APEX-Kernel-v2-spaced for Realme Narzo50/8i(spaced)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
